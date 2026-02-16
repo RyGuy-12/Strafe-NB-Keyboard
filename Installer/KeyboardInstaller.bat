@@ -4,9 +4,9 @@ setlocal
 echo Searching for NohBoard...
 
 :: Common install locations
-set "NB1=%USERPROFILE%\Desktop\NohBoard-ReWrite-v1.3.0"
-set "NB2=%USERPROFILE%\Downloads\NohBoard-ReWrite-v1.3.0"
-set "NB3=%USERPROFILE%\OneDrive\Documents\NohBoard-ReWrite-v1.3.0"
+set "NB1=%USERPROFILE%\Downloads\NohBoard-ReWrite-v1.3.0"
+set "NB2=%USERPROFILE%\OneDrive\Documents\NohBoard-ReWrite-v1.3.0"
+set "NB3=%USERPROFILE%\Documents\NohBoard-ReWrite-v1.3.0"
 
 set "NOHBOARD="
 
